@@ -1,0 +1,1 @@
+1) Run the code (main function) inside the file called temp.cpp, take a screenshot of the output and upload it in this directory.

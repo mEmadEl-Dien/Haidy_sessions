@@ -1,0 +1,6 @@
+1) What is OOP -> Concept in programming for organizing code.
+2) Linux commands -> (cd -> change directory, ls -> list).
+3) Classes -> Attributes.
+4) Functions -> Abstraction (more next time).
+5) Code Re-usability -> Code is modular (نموذج - مربع مقفول يمكن استخدامه من اي مكان).
+6) OOP + Functions = Write once, use many.

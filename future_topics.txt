@@ -1,0 +1,6 @@
+1) SOLID
+2) Linux commands
+3) g++ (compiler)
+4) Data Structures
+5) Algorithms
+6) C++ syntax
